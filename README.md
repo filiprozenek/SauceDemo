@@ -22,15 +22,15 @@ The test files reflect the TC folders from the documentation, that's why files w
 The other code-folders are:
 - _pages_ → here are defined actual test pages, so f.e. the _'Sign-in' Page_
 - _elements_ → here are defined all the elements like _'Header'_, _'Footer'_ etc. with all the locators and methods, so f.e. here is the _'Sign-in' Form_ element that is linked within the _'Sign-in' Page_
-
-<img width="1655" height="571" alt="SD_readme_4" src="https://github.com/user-attachments/assets/b9b3f869-4b0e-4fd8-bae3-629ed9940286" />
-
 - _data_ → here are defined all 'data' files, like URLs, users&passwords etc.
 
-<img width="593" height="510" alt="SD_readme_5" src="https://github.com/user-attachments/assets/d01e2101-8e01-49b1-9ef3-26413b3c609b" />
+<p align="center">
+<img width="2312" height="571" alt="SD_readme_4" src="https://github.com/user-attachments/assets/f95718da-6516-4c5c-844e-1ed20df81f92" />
+</p>
 
 > [!NOTE]
 > The structure might seem to be too complicated, but, believe me, it's super easy and also super easy to maintain.
+
 
 > [!TIP]
 > each test unit contains a direct link to the defined TC within the documentation, anytime you get lost or sth
