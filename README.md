@@ -25,7 +25,7 @@ The other code-folders are:
 - _data_ → here are defined all 'data' files, like URLs, users&passwords etc.
 
 <p align="center">
-<img width="2312" height="571" alt="SD_readme_4" src="https://github.com/user-attachments/assets/f95718da-6516-4c5c-844e-1ed20df81f92" />
+<img width="2237" height="571" alt="SD_readme_4" src="https://github.com/user-attachments/assets/493433cd-84b5-481b-a1d7-943f89e51b59" />
 </p>
 
 > [!NOTE]
