@@ -21,7 +21,7 @@ The test files reflect the TC folders from the documentation, that's why files w
 
 The other code-folders are:
 - _pages_ → here are defined actual test pages, so f.e. the _'Sign-in' Page_
-- _elements_ → here are defined all the elements like _'Header'_, _'Footer'_ etc. with all the locators and methods, so f.e. here is located the _'Sign-in' Form_ element that is linked within the _'Sign-in' Page_
+- _elements_ → here are defined all the elements like _'Header'_, _'Footer'_ etc. with all the locators and methods, so f.e. here is the _'Sign-in' Form_ element that is linked within the _'Sign-in' Page_
 
 <img width="1655" height="571" alt="SD_readme_4" src="https://github.com/user-attachments/assets/b9b3f869-4b0e-4fd8-bae3-629ed9940286" />
 
