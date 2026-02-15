@@ -28,11 +28,14 @@ The other code-folders are:
 - _data_ → here are defined all 'data' files, like URLs, users&passwords etc.
 
 <img width="593" height="510" alt="SD_readme_5" src="https://github.com/user-attachments/assets/d01e2101-8e01-49b1-9ef3-26413b3c609b" />
- 
- 
-The structure might seem to be too complicated, but, believe me, it's super easy and also super easy to maintain.
 
-⭐ Bonus info: each test unit contains a direct link to the defined TC within the documentation, anytime you get lost or sth.
+> [!NOTE]
+> The structure might seem to be too complicated, but, believe me, it's super easy and also super easy to maintain.
+
+> [!TIP]
+> each test unit contains a direct link to the defined TC within the documentation, anytime you get lost or sth
 
 <img width="704" height="334" alt="SD_readme_6" src="https://github.com/user-attachments/assets/878f7248-9cea-4cf3-b15e-b63bfaa248d9" />
 
+---
+<p align="right">Enjoy! Fifi</p>
