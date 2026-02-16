@@ -13,7 +13,7 @@ To see all the TestCases → go to [Testiny](https://app.testiny.io/p/1/testcase
 </p>
 
 ### 📁 Folders / Files structure
-The test files reflect the TC folders from the documentation, that's why files within the _tests_ folder start with numbers '1', '2' etc. (btw it will be helpful when the repo grows), so it means, e.g. the file _4-1-signin-form.spec.ts_ contains all the automated tests from the [_[4-1] 'Sign-in' Form_](https://app.testiny.io/p/1/testcases/tcf/7/tc/56/) from _Testiny_.
+The test files reflect the TC folders from the documentation, that's why files within the _`tests`_ folder start with numbers '1', '2' etc. (btw it will be helpful when the repo grows), so it means, e.g. the file _4-1-signin-form.spec.ts_ contains all the automated tests from the [_[4-1] 'Sign-in' Form_](https://app.testiny.io/p/1/testcases/tcf/7/tc/56/) from _Testiny_.
 
 <p align="center">
   <img width="650" height="919" alt="SD_readme_3" src="https://github.com/user-attachments/assets/2cffa38f-be25-44c9-bd9b-1e7a4c11f88a" /></center>
